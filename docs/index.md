@@ -15,3 +15,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+<img src="..\media\Aptflex bubble comparison.JPG" alt="Aptflex bubble comparison" style="zoom:30%;" />
