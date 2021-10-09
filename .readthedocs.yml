@@ -12,13 +12,13 @@ build:
     python: "3.9"
 
 mkdocs:
-  configuration: mkdocs.yml
+  configuration: rtd_docs/mkdocs.yml
   fail_on_warning: false
 
 # Optionally declare the Python requirements required to build your docs
 python:
    install:
-   - requirements: docs/requirements.txt
+   - requirements: rtd_docs/docs/requirements.txt
 
 # Optionally build your docs in additional formats such as PDF and ePub
 formats: all   
