@@ -1,6 +1,0 @@
-site_name: MkLorum
-nav:
-    - Home: index.md
-    - Background: background.md
-    - Equipment: equipment.md
-theme: readthedocs    
