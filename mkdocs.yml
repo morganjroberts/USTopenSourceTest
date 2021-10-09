@@ -1,6 +1,0 @@
-site_name: MkLorum
-site_url: https://morganjroberts-ustopensourcetest.readthedocs.io
-nav:
-    - Home: index.md
-    - Background: background.md
-theme: readthedocs    
