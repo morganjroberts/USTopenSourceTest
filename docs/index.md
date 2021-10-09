@@ -13,7 +13,7 @@ Visit the [BUG website](https://bug.medphys.ucl.ac.uk/) to find out more.
 * Change directories `cd project_dir_name`
 * Open local repo directory in a VScode terminal (terminal should always stay at the root)
 * Clone remote repo to transform local repo into a git repo by copying the link and typing `git clone <link>`
-* MkDocs will create a site directory that should not be tracked. Add this to .gitignore using `echo "site/" >> .gitignore`
+* MkDocs will create a site directory that should not be tracked. Add `site/` to .gitignore
 * Add documentation using the following file structure:
 
 ```
