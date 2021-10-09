@@ -1,6 +1,6 @@
-site_name: MkLorum
+site_name: Test documentation for future open source project
 nav:
     - Home: index.md
     - Background: background.md
     - Equipment: equipment.md
-theme: readthedocs    
+theme: readthedocs
