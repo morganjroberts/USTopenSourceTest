@@ -1,5 +1,6 @@
 site_name: Test documentation for future open source project
 site_url: https://morganjroberts.github.io/USTopenSourceTest/
+repo_url: https://github.com/morganjroberts/USTopenSourceTest
 nav:
     - Home: index.md
     - Background: background.md
